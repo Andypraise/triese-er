@@ -112,6 +112,9 @@ export default function Home() {
               Get your favorite burger with fries and a drink at an amazing
               price.
             </p>
+            <button className="mt-6 bg-brand-red text-black px-6 py-3 border  border-black cursor-pointer rounded-full font-semibold hover:scale-105 transition">
+            VIEW MENU
+          </button>
           </div>
 
           <Image
@@ -137,7 +140,7 @@ export default function Home() {
             you ll never forget.
           </p>
 
-          <button className="mt-6 bg-brand-red text-white px-6 py-3 rounded-full font-semibold hover:scale-105 transition">
+          <button className="mt-6 bg-brand-red text-black px-6 py-3 border  border-black cursor-pointer rounded-full font-semibold hover:scale-105 transition">
             VIEW MENU
           </button>
         </div>
